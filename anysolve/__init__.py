@@ -14,7 +14,6 @@ class AnySolve(object):
             url = f"{url}?{urlencode(parameters)}"
 
         headers = {"Content-Type": "application/json"}
-        print(url)
 
         res = requests.get(url, headers=headers, auth=BearerAuth(self.api_key)).json()
 
