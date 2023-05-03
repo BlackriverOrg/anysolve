@@ -1,9 +1,9 @@
 Python Library anysolve
 ========================================
 
-`anysolve` is a library for executing AnySolve.ai tasks. It needs an `API-Key` that can be created in the settings of an anysolve.ai account. The settings can be found at https://www.anysolve.ai/settings.
+`anysolve` is a library for executing `AnySolve.ai <https://www.anysolve.ai>`_ tasks. It needs an `API-Key` that can be created in the settings of an anysolve.ai account. The settings can be found at https://www.anysolve.ai/settings.
 
-Please *note* that the execution of an AnySolve.ai task may be chargeable.
+Please *note* that the execution of an `AnySolve.ai <https://www.anysolve.ai>`_ task may be chargeable.
 
 Installation
 ~~~~~~~~~~~~
