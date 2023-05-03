@@ -1,5 +1,3 @@
-# AnySolve.ai Client Library
-
 Python Library anysolve
 ========================================
 
@@ -21,7 +19,7 @@ Mac/Linux
 
 .. code-block:: console
 
-    <your-env>/bin/pip install anysolve
+    pip3 install anysolve
 
 
 Windows
@@ -29,7 +27,7 @@ Windows
 
 .. code-block:: console
 
-    <your-env>\Scripts\pip.exe install anysolve
+    pip.exe install anysolve
 
 
 Example Usage
