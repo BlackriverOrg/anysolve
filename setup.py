@@ -34,7 +34,7 @@ setuptools.setup(
     author="Simon Hecht",
     author_email="simon_hecht@hotmail.com",
     license="License :: OSI Approved :: The Unlicense (Unlicense)",
-    url="https://github.com/aaad/anysolve",
+    url="https://github.com/BlackriverBlockchain/anysolve",
     classifiers=[
         release_status,
         "Intended Audience :: Developers",
