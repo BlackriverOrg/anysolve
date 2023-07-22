@@ -8,7 +8,7 @@ import setuptools
 
 name = "anysolve"
 description = "AnySolve.ai Client library"
-version = "1.0.2"
+version = "1.0.3"
 release_status = "Development Status :: 5 - Production/Stable"
 dependencies = [
     "requests",
