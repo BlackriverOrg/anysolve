@@ -31,8 +31,8 @@ setuptools.setup(
     version=version,
     description=description,
     long_description=readme,
-    author="Simon Hecht",
-    author_email="simon_hecht@hotmail.com",
+    author="AnySolve.ai",
+    author_email="office@anysolve.ai",
     license="License :: OSI Approved :: The Unlicense (Unlicense)",
     url="https://github.com/BlackriverOrg/anysolve",
     classifiers=[
